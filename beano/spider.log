@@ -1,0 +1,2394 @@
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:52--  http://localhost:8099/
+Resolving localhost (localhost)... ::1, 127.0.0.1
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 124372 (121K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:52--  http://localhost:8099/
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 124372 (121K) [text/html]
+Saving to: 'localhost+8099/index.html.tmp.tmp'
+
+     0K .......... .......... .......... .......... .......... 41% 1,09G 0s
+    50K .......... .......... .......... .......... .......... 82%  286M 0s
+   100K .......... .......... .                               100%  409G=0s
+
+2026-08-09 22:47:52 (553 MB/s) - 'localhost+8099/index.html.tmp.tmp' saved [124372/124372]
+
+Removing localhost+8099/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:52--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/css/beano-wcopilot.webflow.shared.426fba614.css
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:52--  http://localhost:8099/ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:52--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69cf7f31774e47e37dc4311c_Beano-favicon.png
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:52--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69cf7f66fd7d0b68c2e7623d_Beano-favicon-dark.png
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:52--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69cf7f3532351d3bcbcc705e_Beano-webclip.png
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:52--  http://localhost:8099/g0lnomhfn3mgNjk3MDAyMDkzOTljMWQzNGI4ZjExNjM3/texegCegWjWAAg5JTvdqbZU8uB4
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 525921 (514K) [application/octet-stream]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing localhost+8099/g0lnomhfn3mgNjk3MDAyMDkzOTljMWQzNGI4ZjExNjM3/texegCegWjWAAg5JTvdqbZU8uB4.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:52--  http://localhost:8099/fonts/inter-tight.css
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 10270 (10K) [text/css]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:52--  http://localhost:8099/fonts/inter-tight.css
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 10270 (10K) [text/css]
+Saving to: 'localhost+8099/fonts/inter-tight.css.tmp.tmp'
+
+     0K ..........                                            100%  393M=0s
+
+2026-08-09 22:47:52 (393 MB/s) - 'localhost+8099/fonts/inter-tight.css.tmp.tmp' saved [10270/10270]
+
+Removing localhost+8099/fonts/inter-tight.css.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:52--  http://localhost:8099/index.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 124372 (121K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:52--  http://localhost:8099/index.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 124372 (121K) [text/html]
+Saving to: 'localhost+8099/index.html.tmp.tmp'
+
+     0K .......... .......... .......... .......... .......... 41% 1,32G 0s
+    50K .......... .......... .......... .......... .......... 82%  303M 0s
+   100K .......... .......... .                               100%  409G=0s
+
+2026-08-09 22:47:52 (601 MB/s) - 'localhost+8099/index.html.tmp.tmp' saved [124372/124372]
+
+Removing localhost+8099/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:52--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/6973218a40348d7dc76feb49_Beano%20Logo.svg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:52--  http://localhost:8099/about-us.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76071 (74K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:52--  http://localhost:8099/about-us.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76071 (74K) [text/html]
+Saving to: 'localhost+8099/about-us.html.tmp.tmp'
+
+     0K .......... .......... .......... .......... .......... 67% 1,43G 0s
+    50K .......... .......... ....                            100%  184M=0s
+
+2026-08-09 22:47:52 (448 MB/s) - 'localhost+8099/about-us.html.tmp.tmp' saved [76071/76071]
+
+Removing localhost+8099/about-us.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:52--  http://localhost:8099/coffee.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85315 (83K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:52--  http://localhost:8099/coffee.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85315 (83K) [text/html]
+Saving to: 'localhost+8099/coffee.html.tmp.tmp'
+
+     0K .......... .......... .......... .......... .......... 60%  540M 0s
+    50K .......... .......... .......... ...                  100%  213M=0s
+
+2026-08-09 22:47:53 (335 MB/s) - 'localhost+8099/coffee.html.tmp.tmp' saved [85315/85315]
+
+Removing localhost+8099/coffee.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:53--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69732559dee32e678ff07c2f_Icon%20Arrow.svg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:53--  http://localhost:8099/menu.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 104921 (102K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:53--  http://localhost:8099/menu.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 104921 (102K) [text/html]
+Saving to: 'localhost+8099/menu.html.tmp.tmp'
+
+     0K .......... .......... .......... .......... .......... 48% 1,43G 0s
+    50K .......... .......... .......... .......... .......... 97%  311M 0s
+   100K ..                                                    100% 47,0G=0s
+
+2026-08-09 22:47:53 (526 MB/s) - 'localhost+8099/menu.html.tmp.tmp' saved [104921/104921]
+
+Removing localhost+8099/menu.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:53--  http://localhost:8099/product/sagebrush.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56903 (56K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:53--  http://localhost:8099/product/sagebrush.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56903 (56K) [text/html]
+Saving to: 'localhost+8099/product/sagebrush.html.tmp.tmp'
+
+     0K .......... .......... .......... .......... .......... 89% 1,35G 0s
+    50K .....                                                 100%  106G=0s
+
+2026-08-09 22:47:53 (1,50 GB/s) - 'localhost+8099/product/sagebrush.html.tmp.tmp' saved [56903/56903]
+
+Removing localhost+8099/product/sagebrush.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:53--  http://localhost:8099/gallery.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 54318 (53K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:53--  http://localhost:8099/gallery.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 54318 (53K) [text/html]
+Saving to: 'localhost+8099/gallery.html.tmp.tmp'
+
+     0K .......... .......... .......... .......... .......... 94% 1,54G 0s
+    50K ...                                                   100% 58,1G=0s
+
+2026-08-09 22:47:53 (1,64 GB/s) - 'localhost+8099/gallery.html.tmp.tmp' saved [54318/54318]
+
+Removing localhost+8099/gallery.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:53--  http://localhost:8099/faq.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 32145 (31K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:53--  http://localhost:8099/faq.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 32145 (31K) [text/html]
+Saving to: 'localhost+8099/faq.html.tmp.tmp'
+
+     0K .......... .......... .......... .                    100% 1,50G=0s
+
+2026-08-09 22:47:53 (1,50 GB/s) - 'localhost+8099/faq.html.tmp.tmp' saved [32145/32145]
+
+Removing localhost+8099/faq.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:53--  http://localhost:8099/testimonials.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 40865 (40K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:53--  http://localhost:8099/testimonials.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 40865 (40K) [text/html]
+Saving to: 'localhost+8099/testimonials.html.tmp.tmp'
+
+     0K .......... .......... .......... .........            100%  534M=0s
+
+2026-08-09 22:47:53 (534 MB/s) - 'localhost+8099/testimonials.html.tmp.tmp' saved [40865/40865]
+
+Removing localhost+8099/testimonials.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:53--  http://localhost:8099/contact-us.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 44735 (44K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:53--  http://localhost:8099/contact-us.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 44735 (44K) [text/html]
+Saving to: 'localhost+8099/contact-us.html.tmp.tmp'
+
+     0K .......... .......... .......... .......... ...       100% 1,50G=0s
+
+2026-08-09 22:47:53 (1,50 GB/s) - 'localhost+8099/contact-us.html.tmp.tmp' saved [44735/44735]
+
+Removing localhost+8099/contact-us.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:53--  http://localhost:8099/blog.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 46480 (45K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:53--  http://localhost:8099/blog.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 46480 (45K) [text/html]
+Saving to: 'localhost+8099/blog.html.tmp.tmp'
+
+     0K .......... .......... .......... .......... .....     100% 2,15G=0s
+
+2026-08-09 22:47:53 (2,15 GB/s) - 'localhost+8099/blog.html.tmp.tmp' saved [46480/46480]
+
+Removing localhost+8099/blog.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:53--  http://localhost:8099/blog-posts/common-coffee-mistakes-and-how-to-fix-them.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 39697 (39K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:53--  http://localhost:8099/blog-posts/common-coffee-mistakes-and-how-to-fix-them.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 39697 (39K) [text/html]
+Saving to: 'localhost+8099/blog-posts/common-coffee-mistakes-and-how-to-fix-them.html.tmp.tmp'
+
+     0K .......... .......... .......... ........             100% 1,04G=0s
+
+2026-08-09 22:47:53 (1,04 GB/s) - 'localhost+8099/blog-posts/common-coffee-mistakes-and-how-to-fix-them.html.tmp.tmp' saved [39697/39697]
+
+Removing localhost+8099/blog-posts/common-coffee-mistakes-and-how-to-fix-them.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:53--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/697331a26ceba63edc4e72ce_Icon%20Close%20(2).svg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:53--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/6973e2d273cf24578fae43af_Rectangle%201.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:53--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/6973e2d273cf24578fae43af_Rectangle
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:53--  http://localhost:8099/coffee/decaf.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65444 (64K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:53--  http://localhost:8099/coffee/decaf.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65444 (64K) [text/html]
+Saving to: 'localhost+8099/coffee/decaf.html.tmp.tmp'
+
+     0K .......... .......... .......... .......... .......... 78% 1,66G 0s
+    50K .......... ...                                        100%  265G=0s
+
+2026-08-09 22:47:53 (2,12 GB/s) - 'localhost+8099/coffee/decaf.html.tmp.tmp' saved [65444/65444]
+
+Removing localhost+8099/coffee/decaf.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:53--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/6973e7102ccfa0826cb1870d_Frame%20(1).svg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:53--  http://localhost:8099/coffee/filter.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65468 (64K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:53--  http://localhost:8099/coffee/filter.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65468 (64K) [text/html]
+Saving to: 'localhost+8099/coffee/filter.html.tmp.tmp'
+
+     0K .......... .......... .......... .......... .......... 78%  992M 0s
+    50K .......... ...                                        100%  266G=0s
+
+2026-08-09 22:47:53 (1,24 GB/s) - 'localhost+8099/coffee/filter.html.tmp.tmp' saved [65468/65468]
+
+Removing localhost+8099/coffee/filter.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:53--  http://localhost:8099/coffee/espresso.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65715 (64K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:53--  http://localhost:8099/coffee/espresso.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65715 (64K) [text/html]
+Saving to: 'localhost+8099/coffee/espresso.html.tmp.tmp'
+
+     0K .......... .......... .......... .......... .......... 77% 2,09G 0s
+    50K .......... ....                                       100% 91,9M=0s
+
+2026-08-09 22:47:53 (361 MB/s) - 'localhost+8099/coffee/espresso.html.tmp.tmp' saved [65715/65715]
+
+Removing localhost+8099/coffee/espresso.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:53--  http://localhost:8099/coffee/cold-brew.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65449 (64K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:53--  http://localhost:8099/coffee/cold-brew.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65449 (64K) [text/html]
+Saving to: 'localhost+8099/coffee/cold-brew.html.tmp.tmp'
+
+     0K .......... .......... .......... .......... .......... 78% 1,42G 0s
+    50K .......... ...                                        100%  265G=0s
+
+2026-08-09 22:47:53 (1,82 GB/s) - 'localhost+8099/coffee/cold-brew.html.tmp.tmp' saved [65449/65449]
+
+Removing localhost+8099/coffee/cold-brew.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:53--  http://localhost:8099/coffee/single-origin.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65517 (64K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:53--  http://localhost:8099/coffee/single-origin.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65517 (64K) [text/html]
+Saving to: 'localhost+8099/coffee/single-origin.html.tmp.tmp'
+
+     0K .......... .......... .......... .......... .......... 78%  365M 0s
+    50K .......... ...                                        100%  267G=0s
+
+2026-08-09 22:47:53 (468 MB/s) - 'localhost+8099/coffee/single-origin.html.tmp.tmp' saved [65517/65517]
+
+Removing localhost+8099/coffee/single-origin.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:53--  http://localhost:8099/coffee/signature-blends.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65511 (64K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:53--  http://localhost:8099/coffee/signature-blends.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65511 (64K) [text/html]
+Saving to: 'localhost+8099/coffee/signature-blends.html.tmp.tmp'
+
+     0K .......... .......... .......... .......... .......... 78% 2,21G 0s
+    50K .......... ...                                        100%  267G=0s
+
+2026-08-09 22:47:53 (2,82 GB/s) - 'localhost+8099/coffee/signature-blends.html.tmp.tmp' saved [65511/65511]
+
+Removing localhost+8099/coffee/signature-blends.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:53--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/6972701304b731bfa1f61b71_Frame.svg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:53--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/697744b467bc45b492f78e06_Product%20Image.png
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:53--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/697744b467bc45b492f78e06_Product
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:53--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/697734d4d70145bbdfc91ca7_Roasted%20coffee%20beans.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:53--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/697734d4d70145bbdfc91ca7_Roasted
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:53--  http://localhost:8099/product/midnight-roast.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 57090 (56K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:54--  http://localhost:8099/product/midnight-roast.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 57090 (56K) [text/html]
+Saving to: 'localhost+8099/product/midnight-roast.html.tmp.tmp'
+
+     0K .......... .......... .......... .......... .......... 89%  863M 0s
+    50K .....                                                 100%  110G=0s
+
+2026-08-09 22:47:54 (962 MB/s) - 'localhost+8099/product/midnight-roast.html.tmp.tmp' saved [57090/57090]
+
+Removing localhost+8099/product/midnight-roast.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/697745c609d33745bf57a533_Product%20Image.png
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/697745c609d33745bf57a533_Product
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/697762e32eec4b1f4fc62c59_Roasted%20coffee%20beans..jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/697762e32eec4b1f4fc62c59_Roasted
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/product/coastline.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56588 (55K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:54--  http://localhost:8099/product/coastline.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56588 (55K) [text/html]
+Saving to: 'localhost+8099/product/coastline.html.tmp.tmp'
+
+     0K .......... .......... .......... .......... .......... 90% 2,30G 0s
+    50K .....                                                 100%  100G=0s
+
+2026-08-09 22:47:54 (2,55 GB/s) - 'localhost+8099/product/coastline.html.tmp.tmp' saved [56588/56588]
+
+Removing localhost+8099/product/coastline.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/6977463f74fe5c6f2ac3d42b_Product%20Image.png
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/6977463f74fe5c6f2ac3d42b_Product
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/6977369f296144f6c5aa20c6_Roasted%20coffee%20beans,.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/6977369f296144f6c5aa20c6_Roasted
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/-p-500.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/-p-800.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/product/forest-shade.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56552 (55K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:54--  http://localhost:8099/product/forest-shade.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56552 (55K) [text/html]
+Saving to: 'localhost+8099/product/forest-shade.html.tmp.tmp'
+
+     0K .......... .......... .......... .......... .......... 90%  771M 0s
+    50K .....                                                 100% 99,7G=0s
+
+2026-08-09 22:47:54 (852 MB/s) - 'localhost+8099/product/forest-shade.html.tmp.tmp' saved [56552/56552]
+
+Removing localhost+8099/product/forest-shade.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/6977468ca0c46d8b2295e164_Product%20Image.png
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/6977468ca0c46d8b2295e164_Product
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/6977384acaedaf124f4b9db5_Ground%20Coffee.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/6977384acaedaf124f4b9db5_Ground
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/product/brazil-toucan-cerrado.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56528 (55K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:54--  http://localhost:8099/product/brazil-toucan-cerrado.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56528 (55K) [text/html]
+Saving to: 'localhost+8099/product/brazil-toucan-cerrado.html.tmp.tmp'
+
+     0K .......... .......... .......... .......... .......... 90% 2,28G 0s
+    50K .....                                                 100% 99,2G=0s
+
+2026-08-09 22:47:54 (2,52 GB/s) - 'localhost+8099/product/brazil-toucan-cerrado.html.tmp.tmp' saved [56528/56528]
+
+Removing localhost+8099/product/brazil-toucan-cerrado.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/6977476926152ff656501083_Product%20Image.png
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/6977476926152ff656501083_Product
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/product/peru-cafe-del-futuro.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56530 (55K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:54--  http://localhost:8099/product/peru-cafe-del-futuro.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56530 (55K) [text/html]
+Saving to: 'localhost+8099/product/peru-cafe-del-futuro.html.tmp.tmp'
+
+     0K .......... .......... .......... .......... .......... 90% 1,59G 0s
+    50K .....                                                 100% 99,3G=0s
+
+2026-08-09 22:47:54 (1,75 GB/s) - 'localhost+8099/product/peru-cafe-del-futuro.html.tmp.tmp' saved [56530/56530]
+
+Removing localhost+8099/product/peru-cafe-del-futuro.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69774796cce4aca38b256871_Product%20Image.png
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69774796cce4aca38b256871_Product
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/product/el-salvador.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56592 (55K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:54--  http://localhost:8099/product/el-salvador.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56592 (55K) [text/html]
+Saving to: 'localhost+8099/product/el-salvador.html.tmp.tmp'
+
+     0K .......... .......... .......... .......... .......... 90%  769M 0s
+    50K .....                                                 100%  100G=0s
+
+2026-08-09 22:47:54 (850 MB/s) - 'localhost+8099/product/el-salvador.html.tmp.tmp' saved [56592/56592]
+
+Removing localhost+8099/product/el-salvador.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/697746d16bd6337fdc9fbf69_Product%20Image.png
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/697746d16bd6337fdc9fbf69_Product
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/product/ethiopia-sidamo-filter.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56695 (55K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:54--  http://localhost:8099/product/ethiopia-sidamo-filter.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56695 (55K) [text/html]
+Saving to: 'localhost+8099/product/ethiopia-sidamo-filter.html.tmp.tmp'
+
+     0K .......... .......... .......... .......... .......... 90% 1,59G 0s
+    50K .....                                                 100%  102G=0s
+
+2026-08-09 22:47:54 (1,77 GB/s) - 'localhost+8099/product/ethiopia-sidamo-filter.html.tmp.tmp' saved [56695/56695]
+
+Removing localhost+8099/product/ethiopia-sidamo-filter.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/6977470905c1b1840a17fb68_Product%20Image.png
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/6977470905c1b1840a17fb68_Product
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/product/fresh-coffee.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56422 (55K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:54--  http://localhost:8099/product/fresh-coffee.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56422 (55K) [text/html]
+Saving to: 'localhost+8099/product/fresh-coffee.html.tmp.tmp'
+
+     0K .......... .......... .......... .......... .......... 90% 1,20G 0s
+    50K .....                                                 100% 97,3G=0s
+
+2026-08-09 22:47:54 (1,32 GB/s) - 'localhost+8099/product/fresh-coffee.html.tmp.tmp' saved [56422/56422]
+
+Removing localhost+8099/product/fresh-coffee.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/6977485d2c9952c794ed3bf8_Product%20Image.png
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/6977485d2c9952c794ed3bf8_Product
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/product/primo-exclusive.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56497 (55K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:54--  http://localhost:8099/product/primo-exclusive.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56497 (55K) [text/html]
+Saving to: 'localhost+8099/product/primo-exclusive.html.tmp.tmp'
+
+     0K .......... .......... .......... .......... .......... 90% 1,45G 0s
+    50K .....                                                 100% 98,7G=0s
+
+2026-08-09 22:47:54 (1,60 GB/s) - 'localhost+8099/product/primo-exclusive.html.tmp.tmp' saved [56497/56497]
+
+Removing localhost+8099/product/primo-exclusive.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69774896d0fbe445d773df18_Product%20Image.png
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69774896d0fbe445d773df18_Product
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/product/costa-rica-amapola.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56499 (55K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:54--  http://localhost:8099/product/costa-rica-amapola.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56499 (55K) [text/html]
+Saving to: 'localhost+8099/product/costa-rica-amapola.html.tmp.tmp'
+
+     0K .......... .......... .......... .......... .......... 90% 1,54G 0s
+    50K .....                                                 100% 98,7G=0s
+
+2026-08-09 22:47:54 (1,70 GB/s) - 'localhost+8099/product/costa-rica-amapola.html.tmp.tmp' saved [56499/56499]
+
+Removing localhost+8099/product/costa-rica-amapola.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/697747caa17841b14a082288_Product%20Image.png
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/697747caa17841b14a082288_Product
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/product/wienner-kaffe.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56426 (55K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:54--  http://localhost:8099/product/wienner-kaffe.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56426 (55K) [text/html]
+Saving to: 'localhost+8099/product/wienner-kaffe.html.tmp.tmp'
+
+     0K .......... .......... .......... .......... .......... 90% 1,64G 0s
+    50K .....                                                 100% 97,3G=0s
+
+2026-08-09 22:47:54 (1,81 GB/s) - 'localhost+8099/product/wienner-kaffe.html.tmp.tmp' saved [56426/56426]
+
+Removing localhost+8099/product/wienner-kaffe.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/697748066827ca123c51eee1_Product%20Image.png
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/697748066827ca123c51eee1_Product
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b024fceab623b1138863de_carolyn-christine-Fq_0jY8hY50-unsplash%201.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b024fceab623b1138863de_carolyn-christine-Fq_0jY8hY50-unsplash
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/697769fbe79d99a49652ecff_pexels-cmrcn-30226608%201.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/697769fbe79d99a49652ecff_pexels-cmrcn-30226608
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69776ef43bd7f2f833082408_Close%20up%20of%20roasted%20coffee%20beans%20in%20hand_mp4.mp4
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69776ef43bd7f2f833082408_Close%20up%20of%20roasted%20coffee%20beans%20in%20hand_webm.webm
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69776ef43bd7f2f833082408_Close%20up%20of%20roasted%20coffee%20beans%20in%20hand_poster.0000000.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69aeb9c101d009787ef513b9_material-symbols_pause.svg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69aeb9cc1f576c3b3dae1c47_mdi_play.svg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69778f018818716e0ed1bcbe_foam-of-coffee-in-cup.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69778f018818716e0ed1bcbe_foam-of-coffee-in-cup-p-500.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69778f018818716e0ed1bcbe_foam-of-coffee-in-cup-p-800.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69778f018818716e0ed1bcbe_foam-of-coffee-in-cup-p-1080.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69778f018818716e0ed1bcbe_foam-of-coffee-in-cup-p-1600.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/697798addf1c5873ab25898f_andrew-neel-66NjVBij7P8-unsplash.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/697798addf1c5873ab25898f_andrew-neel-66NjVBij7P8-unsplash-p-500.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/697798addf1c5873ab25898f_andrew-neel-66NjVBij7P8-unsplash-p-800.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/697798addf1c5873ab25898f_andrew-neel-66NjVBij7P8-unsplash-p-1080.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/697798addf1c5873ab25898f_andrew-neel-66NjVBij7P8-unsplash-p-1600.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b086d70a628248aaf41649_139506%202.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b086d70a628248aaf41649_139506
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/697881b1d479d8e7dc13db98_Frame%20(2).svg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69788224587f64b9bbb001a3_Frame%20(3).svg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/697885c5f501f5e5f2d816e4_Frame%207%20(2).webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/697885c5f501f5e5f2d816e4_Frame
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/697885e87b34eadf67c86c89_Frame%208.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69788ad767b50c7f11fb9117_pexels-fotios-photos-17741500
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69788ad767b50c7f11fb9117_pexels-fotios-photos-17741500%201.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69788c0abd351b16de4679c2_Star%202.svg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69aeb8387aa47ca7fca756d9_Barista%20crafting%20perfect%20milk%20foam%20in%20cafe_mp4.mp4
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69aeb8387aa47ca7fca756d9_Barista%20crafting%20perfect%20milk%20foam%20in%20cafe_webm.webm
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69aeb8387aa47ca7fca756d9_Barista%20crafting%20perfect%20milk%20foam%20in%20cafe_poster.0000000.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69736dea66cb50866da58ed2_coffee-beans_2796867%201.svg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.schunk.36b8fb49256177c8.js
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.schunk.36cf7861034839e3.js
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.schunk.121b0d7ff03e0f4a.js
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.schunk.61b534daaaeddbc7.js
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.028da9dc.988243e544caa384.js
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/gsap/3.15.0/gsap.min.js
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/gsap/3.15.0/SplitText.min.js
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/gsap/3.15.0/ScrollTrigger.min.js
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/fonts/woff2/font6.woff2
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 26660 (26K) [font/woff2]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing localhost+8099/fonts/woff2/font6.woff2.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/fonts/woff2/font1.woff2
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 16996 (17K) [font/woff2]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing localhost+8099/fonts/woff2/font1.woff2.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/fonts/woff2/font7.woff2
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 11700 (11K) [font/woff2]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing localhost+8099/fonts/woff2/font7.woff2.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/fonts/woff2/font2.woff2
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 22192 (22K) [font/woff2]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing localhost+8099/fonts/woff2/font2.woff2.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/fonts/woff2/font4.woff2
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 10480 (10K) [font/woff2]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing localhost+8099/fonts/woff2/font4.woff2.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/fonts/woff2/font5.woff2
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 89800 (88K) [font/woff2]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing localhost+8099/fonts/woff2/font5.woff2.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/fonts/woff2/font3.woff2
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 44872 (44K) [font/woff2]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing localhost+8099/fonts/woff2/font3.woff2.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b03317830a879bebb58bb0_Making%20latte%20art%20close%20up_mp4.mp4
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b03317830a879bebb58bb0_Making%20latte%20art%20close%20up_webm.webm
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b03317830a879bebb58bb0_Making%20latte%20art%20close%20up_poster.0000000.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b08135b86c7483c2d9d103_93516%201.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b08135b86c7483c2d9d103_93516
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b0828298050c480bdd1d8e_139506%201.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b0828298050c480bdd1d8e_139506
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b126d5ef7763a6109d2122_Icon%20location%20(1).svg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b126774b9b52499350091f_Icon%20coffee%20bean.svg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b127348d1353eb0b38cef9_Frame%20(3).svg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b0740dac5f2061419609e8_Frame%20(2).svg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b130ad5c9f43dcd5ff67c1_Frame%20(4).svg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b14458a518af042817484f_View%20tool%20used%20coffee%20machines.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b14458a518af042817484f_View
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b146c1852f2d57193672ff_High%20angle%20coffee.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b146c1852f2d57193672ff_High
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b147a5ebecc1e4f239f2c0_Double%20espresso%20coffee%20mug%20with%20cinnamon%20sticks.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b147a5ebecc1e4f239f2c0_Double
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b148c96ed9169c110ae8ad_Cold%20brew%20coffee.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b148c96ed9169c110ae8ad_Cold
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b1495c2b2bcc75ccf0c6bf_2148441166.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b1495c2b2bcc75ccf0c6bf_2148441166-p-500.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b1495c2b2bcc75ccf0c6bf_2148441166-p-800.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b14aa1be27fe2ceb441eb2_Machine%20grinding%20coffee.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b14aa1be27fe2ceb441eb2_Machine
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b155f4a3578469543023a7_Team%20Photo.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b155f4a3578469543023a7_Team
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b159788f8979e8666b7863_Team%20Photo.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b159788f8979e8666b7863_Team
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b159cabff731fadf04da88_Team%20Photo.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b159cabff731fadf04da88_Team
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b159f4edca68564e4242a0_Team%20Photo..jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b159f4edca68564e4242a0_Team
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b1630f91afef8ffc3c03de_Icon%20Arrow.svg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.954b47fd.d449a8b56b3aeddd.js
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b3e5e9628f8bdf29ce5a0e_Icon%20coffee%20bean%20(1).svg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b3e64beb2de2c871e792e6_aroma_5670913%201.svg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3d827a8de7bdcf3db2a20_A%20person%20pouring%20coffee%20into%20a%20cup%20on%20a%20counter_mp4.mp4
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3d827a8de7bdcf3db2a20_A%20person%20pouring%20coffee%20into%20a%20cup%20on%20a%20counter_webm.webm
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3d827a8de7bdcf3db2a20_A%20person%20pouring%20coffee%20into%20a%20cup%20on%20a%20counter_poster.0000000.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b3e741353e5c269a51086d_favorite_2550223%201.svg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3dba37f9de79071951a0f_Person%20making%20a%20drip%20coffee_mp4.mp4
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3dba37f9de79071951a0f_Person%20making%20a%20drip%20coffee_webm.webm
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3dba37f9de79071951a0f_Person%20making%20a%20drip%20coffee_poster.0000000.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3dcb07f9de79071955d64_A%20coffee%20machine_mp4.mp4
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3dcb07f9de79071955d64_A%20coffee%20machine_webm.webm
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3dcb07f9de79071955d64_A%20coffee%20machine_poster.0000000.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3de6820612100eecf4b43_Barista%20making%20iced%20latte%20with%20espresso_mp4.mp4
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3de6820612100eecf4b43_Barista%20making%20iced%20latte%20with%20espresso_webm.webm
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3de6820612100eecf4b43_Barista%20making%20iced%20latte%20with%20espresso_poster.0000000.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3ded607b3ff36b7cf37df_Coffee%20roasting_mp4.mp4
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3ded607b3ff36b7cf37df_Coffee%20roasting_webm.webm
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3ded607b3ff36b7cf37df_Coffee%20roasting_poster.0000000.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3df96e42317f4ae09311b_Transferring%20cooled%20roasted%20coffee%20beans_mp4.mp4
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3df96e42317f4ae09311b_Transferring%20cooled%20roasted%20coffee%20beans_webm.webm
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3df96e42317f4ae09311b_Transferring%20cooled%20roasted%20coffee%20beans_poster.0000000.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/blog-posts/coffee-pairings-snacks-desserts-and-beyond.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 38554 (38K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:54--  http://localhost:8099/blog-posts/coffee-pairings-snacks-desserts-and-beyond.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 38554 (38K) [text/html]
+Saving to: 'localhost+8099/blog-posts/coffee-pairings-snacks-desserts-and-beyond.html.tmp.tmp'
+
+     0K .......... .......... .......... .......              100% 1,27G=0s
+
+2026-08-09 22:47:54 (1,27 GB/s) - 'localhost+8099/blog-posts/coffee-pairings-snacks-desserts-and-beyond.html.tmp.tmp' saved [38554/38554]
+
+Removing localhost+8099/blog-posts/coffee-pairings-snacks-desserts-and-beyond.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b3f9dc5c1063ad3d6d939d_Chocolate%20with%20milted%20chocolate%20on%20white%20ceramic%20plate.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b3f9dc5c1063ad3d6d939d_Chocolate
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/blog-posts/sustainable-coffee-how-to-choose-beans-that-care-for-the-planet.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 38769 (38K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:54--  http://localhost:8099/blog-posts/sustainable-coffee-how-to-choose-beans-that-care-for-the-planet.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 38769 (38K) [text/html]
+Saving to: 'localhost+8099/blog-posts/sustainable-coffee-how-to-choose-beans-that-care-for-the-planet.html.tmp.tmp'
+
+     0K .......... .......... .......... .......              100% 1,11G=0s
+
+2026-08-09 22:47:54 (1,11 GB/s) - 'localhost+8099/blog-posts/sustainable-coffee-how-to-choose-beans-that-care-for-the-planet.html.tmp.tmp' saved [38769/38769]
+
+Removing localhost+8099/blog-posts/sustainable-coffee-how-to-choose-beans-that-care-for-the-planet.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b3fa53bae51419039c8d60_Coffee%20beans%20on%20a%20roaster.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b3fa53bae51419039c8d60_Coffee
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/blog-posts/the-science-of-flavor-a-journey-through-coffee-tasting-notes.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 39235 (38K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:54--  http://localhost:8099/blog-posts/the-science-of-flavor-a-journey-through-coffee-tasting-notes.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 39235 (38K) [text/html]
+Saving to: 'localhost+8099/blog-posts/the-science-of-flavor-a-journey-through-coffee-tasting-notes.html.tmp.tmp'
+
+     0K .......... .......... .......... ........             100% 1,76G=0s
+
+2026-08-09 22:47:54 (1,76 GB/s) - 'localhost+8099/blog-posts/the-science-of-flavor-a-journey-through-coffee-tasting-notes.html.tmp.tmp' saved [39235/39235]
+
+Removing localhost+8099/blog-posts/the-science-of-flavor-a-journey-through-coffee-tasting-notes.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b3fb010d51115da38d3fee_Coffee%20art%20in%20cups%20on%20table.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b3fb010d51115da38d3fee_Coffee
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.schunk.88fd7dc540f30a75.js
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.6a2331b5.8911b2f3c3cbb255.js
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b17c865dc8dfbb227dd8bc_Beano%20Logo.svg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b18dcc7b67bf3dbf70b3d8_Frame%2027%20(1).webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/697370bec95c193448830d3a_coffee-bean_18758677%201.svg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69776615ea9ac5cac52c871e_bags-with-coffee-beans.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69776615ea9ac5cac52c871e_bags-with-coffee-beans-p-500.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69776615ea9ac5cac52c871e_bags-with-coffee-beans-p-800.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b13540272bdf82534517d3_2149709918%201.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b13540272bdf82534517d3_2149709918
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b293002d803e761933bb87_Cold%20brew%20coffee.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b293002d803e761933bb87_Cold
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b2930dbbd8d4e44868766c_High%20angle%20coffee.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b2930dbbd8d4e44868766c_High
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.5767a395.48e15777e9b57152.js
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/product/-p-500.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/product/-p-800.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/product/.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.45539114.0b37aa6c39760d2a.js
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b18dcc7b67bf3dbf70b3d8_Frame
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69ca43caf198a2edaca96663_mary-skrynnikova-deiBtCKsZ3A-unsplash.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69ca43caf198a2edaca96663_mary-skrynnikova-deiBtCKsZ3A-unsplash-p-500.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69ca43caf198a2edaca96663_mary-skrynnikova-deiBtCKsZ3A-unsplash-p-800.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69ca43caf198a2edaca96663_mary-skrynnikova-deiBtCKsZ3A-unsplash-p-1080.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69ca43caf198a2edaca96663_mary-skrynnikova-deiBtCKsZ3A-unsplash-p-1600.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69ca43cb31e28899e753a2f3_31338.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69ca43cb31e28899e753a2f3_31338-p-500.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69ca43cb31e28899e753a2f3_31338-p-800.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69ca43cb31e28899e753a2f3_31338-p-1080.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69ca4567bc7a6c1667cb5e11_20270648-hd_720_1280_30fps_mp4.mp4
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69ca4567bc7a6c1667cb5e11_20270648-hd_720_1280_30fps_webm.webm
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69ca4567bc7a6c1667cb5e11_20270648-hd_720_1280_30fps_poster.0000000.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b3cd4ccd43587d6f79bde5_pexels-pavel-danilyuk-6612609%201.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b3cd4ccd43587d6f79bde5_pexels-pavel-danilyuk-6612609
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:54--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69ca45ae88e30e806652929a_jakob-owens-kqwkv1bYWWM-unsplash.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69ca45ae88e30e806652929a_jakob-owens-kqwkv1bYWWM-unsplash-p-500.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69ca45ae88e30e806652929a_jakob-owens-kqwkv1bYWWM-unsplash-p-800.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69ca45ae88e30e806652929a_jakob-owens-kqwkv1bYWWM-unsplash-p-1080.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69ca45ae88e30e806652929a_jakob-owens-kqwkv1bYWWM-unsplash-p-1600.webp
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.2e5064c9.1d98cccf95fec110.js
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.350d1da6.d93126a887d3f584.js
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.3fbbfbda.c640913d27d5ec5d.js
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69ccd1010422d8455e2969b8_material-symbols_mail-outline.svg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69ccd10151f817894d3c45cd_line-md_phone.svg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.6aa3a0e5.20897bea60e41223.js
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/blog-posts/the-art-of-coffee-roasting-from-bean-to-brew.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 37720 (37K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:55--  http://localhost:8099/blog-posts/the-art-of-coffee-roasting-from-bean-to-brew.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 37720 (37K) [text/html]
+Saving to: 'localhost+8099/blog-posts/the-art-of-coffee-roasting-from-bean-to-brew.html.tmp.tmp'
+
+     0K .......... .......... .......... ......               100% 1,27G=0s
+
+2026-08-09 22:47:55 (1,27 GB/s) - 'localhost+8099/blog-posts/the-art-of-coffee-roasting-from-bean-to-brew.html.tmp.tmp' saved [37720/37720]
+
+Removing localhost+8099/blog-posts/the-art-of-coffee-roasting-from-bean-to-brew.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb7cc7e50adee01c0280a3_jason-betz-klub_Ke-268-unsplash.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb7cc7e50adee01c0280a3_jason-betz-klub_Ke-268-unsplash-p-500.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb7cc7e50adee01c0280a3_jason-betz-klub_Ke-268-unsplash-p-800.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb7cc7e50adee01c0280a3_jason-betz-klub_Ke-268-unsplash-p-1080.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb7cc7e50adee01c0280a3_jason-betz-klub_Ke-268-unsplash-p-1600.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cbd2877947aad61f15beea_manuel-aldana-U5B5HUEDbyY-unsplash.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cbd2877947aad61f15beea_manuel-aldana-U5B5HUEDbyY-unsplash-p-500.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cbd2877947aad61f15beea_manuel-aldana-U5B5HUEDbyY-unsplash-p-800.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cbd2877947aad61f15beea_manuel-aldana-U5B5HUEDbyY-unsplash-p-1080.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cbd2877947aad61f15beea_manuel-aldana-U5B5HUEDbyY-unsplash-p-1600.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/blog-posts/coffee-origins-exploring-the-world-through-beans.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 40727 (40K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:55--  http://localhost:8099/blog-posts/coffee-origins-exploring-the-world-through-beans.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 40727 (40K) [text/html]
+Saving to: 'localhost+8099/blog-posts/coffee-origins-exploring-the-world-through-beans.html.tmp.tmp'
+
+     0K .......... .......... .......... .........            100% 1,64G=0s
+
+2026-08-09 22:47:55 (1,64 GB/s) - 'localhost+8099/blog-posts/coffee-origins-exploring-the-world-through-beans.html.tmp.tmp' saved [40727/40727]
+
+Removing localhost+8099/blog-posts/coffee-origins-exploring-the-world-through-beans.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb7cbb971d338830e10e7d_tamas-pap-RJPrJQXlmng-unsplash.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb7cbb971d338830e10e7d_tamas-pap-RJPrJQXlmng-unsplash-p-500.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb7cbb971d338830e10e7d_tamas-pap-RJPrJQXlmng-unsplash-p-800.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb7cbb971d338830e10e7d_tamas-pap-RJPrJQXlmng-unsplash-p-1080.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb7cbb971d338830e10e7d_tamas-pap-RJPrJQXlmng-unsplash-p-1600.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/blog-posts/how-to-brew-the-perfect-cup-at-home.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 39371 (38K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-08-09 22:47:55--  http://localhost:8099/blog-posts/how-to-brew-the-perfect-cup-at-home.html
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 39371 (38K) [text/html]
+Saving to: 'localhost+8099/blog-posts/how-to-brew-the-perfect-cup-at-home.html.tmp.tmp'
+
+     0K .......... .......... .......... ........             100% 1,00G=0s
+
+2026-08-09 22:47:55 (1,00 GB/s) - 'localhost+8099/blog-posts/how-to-brew-the-perfect-cup-at-home.html.tmp.tmp' saved [39371/39371]
+
+Removing localhost+8099/blog-posts/how-to-brew-the-perfect-cup-at-home.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb7d2735f132bf4d881119_jannis-brandt-qLFJ0uCF9oY-unsplash.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb7d2735f132bf4d881119_jannis-brandt-qLFJ0uCF9oY-unsplash-p-500.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb7d2735f132bf4d881119_jannis-brandt-qLFJ0uCF9oY-unsplash-p-800.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb7d2735f132bf4d881119_jannis-brandt-qLFJ0uCF9oY-unsplash-p-1080.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb7d2735f132bf4d881119_jannis-brandt-qLFJ0uCF9oY-unsplash-p-1600.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.8a36c7f2.8171b3710ea4a10b.js
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cbbfd17688de58ca7277fb_photo-1561336420-a616047f0a97.jpeg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.schunk.907d4ebda0cd624b.js
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.849b4c70.aad0718a8bd4bfa4.js
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/coffee/-p-500.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/coffee/-p-800.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/coffee/.jpg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.fcda9bf9.c986fb6e16b35bfd.js
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cbbd87bda332de185ad088_photo-1553329537-7a06eb26021c.jpeg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cbb45095efc728a98ef091_photo-1462690417829-5b41247f6b0e.jpeg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cba02fe33478deba408f3a_photo-1495474472287-4d71bcdd2085.jpeg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb98376a94e8859ea3165c_photo-1432107294469-414527cb5c65.jpeg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-08-09 22:47:55--  http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb9e8f9172b85a8cf275eb_photo-1521677633993-721dd3f95c10.jpeg
+Connecting to localhost (localhost)|::1|:8099... connected.
+HTTP request sent, awaiting response... 404 File not found
+Remote file does not exist -- broken link!!!
+
+Found 228 broken links.
+
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69776ef43bd7f2f833082408_Close%20up%20of%20roasted%20coffee%20beans%20in%20hand_mp4.mp4
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b155f4a3578469543023a7_Team
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3dcb07f9de79071955d64_A%20coffee%20machine_webm.webm
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b146c1852f2d57193672ff_High%20angle%20coffee.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/697748066827ca123c51eee1_Product
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69774896d0fbe445d773df18_Product%20Image.png
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cbb45095efc728a98ef091_photo-1462690417829-5b41247f6b0e.jpeg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/6972701304b731bfa1f61b71_Frame.svg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3df96e42317f4ae09311b_Transferring%20cooled%20roasted%20coffee%20beans_poster.0000000.jpg
+http://localhost:8099/cdn.prod.website-files.com/gsap/3.15.0/SplitText.min.js
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69ca43caf198a2edaca96663_mary-skrynnikova-deiBtCKsZ3A-unsplash-p-800.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b13540272bdf82534517d3_2149709918%201.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69ca45ae88e30e806652929a_jakob-owens-kqwkv1bYWWM-unsplash-p-1600.webp
+http://localhost:8099/-p-800.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69778f018818716e0ed1bcbe_foam-of-coffee-in-cup-p-1600.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69cf7f66fd7d0b68c2e7623d_Beano-favicon-dark.png
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b159cabff731fadf04da88_Team%20Photo.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb9e8f9172b85a8cf275eb_photo-1521677633993-721dd3f95c10.jpeg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3dcb07f9de79071955d64_A%20coffee%20machine_poster.0000000.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.schunk.36b8fb49256177c8.js
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/6977384acaedaf124f4b9db5_Ground
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb7d2735f132bf4d881119_jannis-brandt-qLFJ0uCF9oY-unsplash.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3de6820612100eecf4b43_Barista%20making%20iced%20latte%20with%20espresso_poster.0000000.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb7d2735f132bf4d881119_jannis-brandt-qLFJ0uCF9oY-unsplash-p-500.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb7cbb971d338830e10e7d_tamas-pap-RJPrJQXlmng-unsplash-p-500.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.fcda9bf9.c986fb6e16b35bfd.js
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b0828298050c480bdd1d8e_139506%201.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cbbfd17688de58ca7277fb_photo-1561336420-a616047f0a97.jpeg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.028da9dc.988243e544caa384.js
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/697885c5f501f5e5f2d816e4_Frame%207%20(2).webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/6977485d2c9952c794ed3bf8_Product
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b13540272bdf82534517d3_2149709918
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/6973e2d273cf24578fae43af_Rectangle%201.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b3f9dc5c1063ad3d6d939d_Chocolate
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b3cd4ccd43587d6f79bde5_pexels-pavel-danilyuk-6612609
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69776615ea9ac5cac52c871e_bags-with-coffee-beans-p-500.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/6977470905c1b1840a17fb68_Product%20Image.png
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b14458a518af042817484f_View%20tool%20used%20coffee%20machines.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb7d2735f132bf4d881119_jannis-brandt-qLFJ0uCF9oY-unsplash-p-1080.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b3cd4ccd43587d6f79bde5_pexels-pavel-danilyuk-6612609%201.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69aeb9cc1f576c3b3dae1c47_mdi_play.svg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b03317830a879bebb58bb0_Making%20latte%20art%20close%20up_poster.0000000.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b03317830a879bebb58bb0_Making%20latte%20art%20close%20up_webm.webm
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b14aa1be27fe2ceb441eb2_Machine
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.schunk.88fd7dc540f30a75.js
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.2e5064c9.1d98cccf95fec110.js
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69ca43caf198a2edaca96663_mary-skrynnikova-deiBtCKsZ3A-unsplash.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.3fbbfbda.c640913d27d5ec5d.js
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/css/beano-wcopilot.webflow.shared.426fba614.css
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b3e64beb2de2c871e792e6_aroma_5670913%201.svg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b293002d803e761933bb87_Cold
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.8a36c7f2.8171b3710ea4a10b.js
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/6977476926152ff656501083_Product%20Image.png
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb7d2735f132bf4d881119_jannis-brandt-qLFJ0uCF9oY-unsplash-p-800.jpg
+http://localhost:8099/cdn.prod.website-files.com/gsap/3.15.0/gsap.min.js
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb7cbb971d338830e10e7d_tamas-pap-RJPrJQXlmng-unsplash-p-800.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/697744b467bc45b492f78e06_Product
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3dba37f9de79071951a0f_Person%20making%20a%20drip%20coffee_poster.0000000.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b148c96ed9169c110ae8ad_Cold
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69774796cce4aca38b256871_Product%20Image.png
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69778f018818716e0ed1bcbe_foam-of-coffee-in-cup.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b18dcc7b67bf3dbf70b3d8_Frame
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb7cbb971d338830e10e7d_tamas-pap-RJPrJQXlmng-unsplash-p-1600.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3df96e42317f4ae09311b_Transferring%20cooled%20roasted%20coffee%20beans_mp4.mp4
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b086d70a628248aaf41649_139506
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69776ef43bd7f2f833082408_Close%20up%20of%20roasted%20coffee%20beans%20in%20hand_webm.webm
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b127348d1353eb0b38cef9_Frame%20(3).svg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69ccd10151f817894d3c45cd_line-md_phone.svg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb7cbb971d338830e10e7d_tamas-pap-RJPrJQXlmng-unsplash.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cba02fe33478deba408f3a_photo-1495474472287-4d71bcdd2085.jpeg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b17c865dc8dfbb227dd8bc_Beano%20Logo.svg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b18dcc7b67bf3dbf70b3d8_Frame%2027%20(1).webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69ca43caf198a2edaca96663_mary-skrynnikova-deiBtCKsZ3A-unsplash-p-500.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/697744b467bc45b492f78e06_Product%20Image.png
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b147a5ebecc1e4f239f2c0_Double%20espresso%20coffee%20mug%20with%20cinnamon%20sticks.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69776615ea9ac5cac52c871e_bags-with-coffee-beans-p-800.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3ded607b3ff36b7cf37df_Coffee%20roasting_mp4.mp4
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69ca4567bc7a6c1667cb5e11_20270648-hd_720_1280_30fps_poster.0000000.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69732559dee32e678ff07c2f_Icon%20Arrow.svg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb7cc7e50adee01c0280a3_jason-betz-klub_Ke-268-unsplash-p-1080.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb7d2735f132bf4d881119_jannis-brandt-qLFJ0uCF9oY-unsplash-p-1600.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/6977485d2c9952c794ed3bf8_Product%20Image.png
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b159cabff731fadf04da88_Team
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3de6820612100eecf4b43_Barista%20making%20iced%20latte%20with%20espresso_webm.webm
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/6973e7102ccfa0826cb1870d_Frame%20(1).svg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3df96e42317f4ae09311b_Transferring%20cooled%20roasted%20coffee%20beans_webm.webm
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b3e5e9628f8bdf29ce5a0e_Icon%20coffee%20bean%20(1).svg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.45539114.0b37aa6c39760d2a.js
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/6977470905c1b1840a17fb68_Product
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.schunk.36cf7861034839e3.js
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69cf7f3532351d3bcbcc705e_Beano-webclip.png
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b03317830a879bebb58bb0_Making%20latte%20art%20close%20up_mp4.mp4
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69ca43cb31e28899e753a2f3_31338-p-1080.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/697881b1d479d8e7dc13db98_Frame%20(2).svg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69ca45ae88e30e806652929a_jakob-owens-kqwkv1bYWWM-unsplash-p-1080.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b147a5ebecc1e4f239f2c0_Double
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69778f018818716e0ed1bcbe_foam-of-coffee-in-cup-p-1080.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b024fceab623b1138863de_carolyn-christine-Fq_0jY8hY50-unsplash%201.webp
+http://localhost:8099/product/-p-500.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69ccd1010422d8455e2969b8_material-symbols_mail-outline.svg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b293002d803e761933bb87_Cold%20brew%20coffee.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69ca45ae88e30e806652929a_jakob-owens-kqwkv1bYWWM-unsplash-p-500.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cbd2877947aad61f15beea_manuel-aldana-U5B5HUEDbyY-unsplash-p-1600.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/697746d16bd6337fdc9fbf69_Product%20Image.png
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69778f018818716e0ed1bcbe_foam-of-coffee-in-cup-p-800.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b0828298050c480bdd1d8e_139506
+http://localhost:8099/ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b14aa1be27fe2ceb441eb2_Machine%20grinding%20coffee.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/6977476926152ff656501083_Product
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.954b47fd.d449a8b56b3aeddd.js
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/697762e32eec4b1f4fc62c59_Roasted%20coffee%20beans..jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3d827a8de7bdcf3db2a20_A%20person%20pouring%20coffee%20into%20a%20cup%20on%20a%20counter_poster.0000000.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cbd2877947aad61f15beea_manuel-aldana-U5B5HUEDbyY-unsplash.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/6977468ca0c46d8b2295e164_Product
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/6977369f296144f6c5aa20c6_Roasted%20coffee%20beans,.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/6977369f296144f6c5aa20c6_Roasted
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/697769fbe79d99a49652ecff_pexels-cmrcn-30226608%201.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b2930dbbd8d4e44868766c_High%20angle%20coffee.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/697885e87b34eadf67c86c89_Frame%208.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/697762e32eec4b1f4fc62c59_Roasted
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.350d1da6.d93126a887d3f584.js
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69ca4567bc7a6c1667cb5e11_20270648-hd_720_1280_30fps_mp4.mp4
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/697798addf1c5873ab25898f_andrew-neel-66NjVBij7P8-unsplash.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/697745c609d33745bf57a533_Product%20Image.png
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69cf7f31774e47e37dc4311c_Beano-favicon.png
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cbd2877947aad61f15beea_manuel-aldana-U5B5HUEDbyY-unsplash-p-500.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb7cc7e50adee01c0280a3_jason-betz-klub_Ke-268-unsplash-p-800.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b146c1852f2d57193672ff_High
+http://localhost:8099/product/.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69ca43cb31e28899e753a2f3_31338-p-500.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b159788f8979e8666b7863_Team
+http://localhost:8099/.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3de6820612100eecf4b43_Barista%20making%20iced%20latte%20with%20espresso_mp4.mp4
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b0740dac5f2061419609e8_Frame%20(2).svg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69736dea66cb50866da58ed2_coffee-beans_2796867%201.svg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b148c96ed9169c110ae8ad_Cold%20brew%20coffee.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b130ad5c9f43dcd5ff67c1_Frame%20(4).svg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3d827a8de7bdcf3db2a20_A%20person%20pouring%20coffee%20into%20a%20cup%20on%20a%20counter_webm.webm
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69776615ea9ac5cac52c871e_bags-with-coffee-beans.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69ca45ae88e30e806652929a_jakob-owens-kqwkv1bYWWM-unsplash-p-800.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb7cc7e50adee01c0280a3_jason-betz-klub_Ke-268-unsplash.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.schunk.907d4ebda0cd624b.js
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b1495c2b2bcc75ccf0c6bf_2148441166.jpg
+http://localhost:8099/-p-500.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69788c0abd351b16de4679c2_Star%202.svg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/697798addf1c5873ab25898f_andrew-neel-66NjVBij7P8-unsplash-p-1080.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3ded607b3ff36b7cf37df_Coffee%20roasting_webm.webm
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b2930dbbd8d4e44868766c_High
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cbd2877947aad61f15beea_manuel-aldana-U5B5HUEDbyY-unsplash-p-800.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69aeb8387aa47ca7fca756d9_Barista%20crafting%20perfect%20milk%20foam%20in%20cafe_poster.0000000.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.6a2331b5.8911b2f3c3cbb255.js
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69778f018818716e0ed1bcbe_foam-of-coffee-in-cup-p-500.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb98376a94e8859ea3165c_photo-1432107294469-414527cb5c65.jpeg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.5767a395.48e15777e9b57152.js
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69aeb8387aa47ca7fca756d9_Barista%20crafting%20perfect%20milk%20foam%20in%20cafe_mp4.mp4
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/697798addf1c5873ab25898f_andrew-neel-66NjVBij7P8-unsplash-p-1600.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.schunk.61b534daaaeddbc7.js
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/697331a26ceba63edc4e72ce_Icon%20Close%20(2).svg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69ca43cb31e28899e753a2f3_31338-p-800.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b3fb010d51115da38d3fee_Coffee%20art%20in%20cups%20on%20table.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/697798addf1c5873ab25898f_andrew-neel-66NjVBij7P8-unsplash-p-800.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/697745c609d33745bf57a533_Product
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/697885c5f501f5e5f2d816e4_Frame
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b1495c2b2bcc75ccf0c6bf_2148441166-p-500.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/697734d4d70145bbdfc91ca7_Roasted
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69ca4567bc7a6c1667cb5e11_20270648-hd_720_1280_30fps_webm.webm
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/6973e2d273cf24578fae43af_Rectangle
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb7cbb971d338830e10e7d_tamas-pap-RJPrJQXlmng-unsplash-p-1080.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b3fa53bae51419039c8d60_Coffee%20beans%20on%20a%20roaster.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3dba37f9de79071951a0f_Person%20making%20a%20drip%20coffee_webm.webm
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b126774b9b52499350091f_Icon%20coffee%20bean.svg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69aeb9c101d009787ef513b9_material-symbols_pause.svg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/6977463f74fe5c6f2ac3d42b_Product
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69774796cce4aca38b256871_Product
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69788ad767b50c7f11fb9117_pexels-fotios-photos-17741500%201.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b155f4a3578469543023a7_Team%20Photo.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b159f4edca68564e4242a0_Team
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3dcb07f9de79071955d64_A%20coffee%20machine_mp4.mp4
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69ca43cb31e28899e753a2f3_31338.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b08135b86c7483c2d9d103_93516%201.webp
+http://localhost:8099/coffee/-p-500.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3d827a8de7bdcf3db2a20_A%20person%20pouring%20coffee%20into%20a%20cup%20on%20a%20counter_mp4.mp4
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b1630f91afef8ffc3c03de_Icon%20Arrow.svg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/6973218a40348d7dc76feb49_Beano%20Logo.svg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b3e741353e5c269a51086d_favorite_2550223%201.svg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/6977384acaedaf124f4b9db5_Ground%20Coffee.jpg
+http://localhost:8099/coffee/.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b3fa53bae51419039c8d60_Coffee
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b159f4edca68564e4242a0_Team%20Photo..jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b1495c2b2bcc75ccf0c6bf_2148441166-p-800.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/697769fbe79d99a49652ecff_pexels-cmrcn-30226608
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.schunk.121b0d7ff03e0f4a.js
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69788ad767b50c7f11fb9117_pexels-fotios-photos-17741500
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b126d5ef7763a6109d2122_Icon%20location%20(1).svg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/6977463f74fe5c6f2ac3d42b_Product%20Image.png
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b08135b86c7483c2d9d103_93516
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b159788f8979e8666b7863_Team%20Photo.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.849b4c70.aad0718a8bd4bfa4.js
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cbd2877947aad61f15beea_manuel-aldana-U5B5HUEDbyY-unsplash-p-1080.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb7cc7e50adee01c0280a3_jason-betz-klub_Ke-268-unsplash-p-1600.jpg
+http://localhost:8099/product/-p-800.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69aeb8387aa47ca7fca756d9_Barista%20crafting%20perfect%20milk%20foam%20in%20cafe_webm.webm
+http://localhost:8099/coffee/-p-800.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69774896d0fbe445d773df18_Product
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/697798addf1c5873ab25898f_andrew-neel-66NjVBij7P8-unsplash-p-500.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b3fb010d51115da38d3fee_Coffee
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/js/webflow.6aa3a0e5.20897bea60e41223.js
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/697746d16bd6337fdc9fbf69_Product
+http://localhost:8099/cdn.prod.website-files.com/gsap/3.15.0/ScrollTrigger.min.js
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b086d70a628248aaf41649_139506%202.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69ca43caf198a2edaca96663_mary-skrynnikova-deiBtCKsZ3A-unsplash-p-1080.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3dba37f9de79071951a0f_Person%20making%20a%20drip%20coffee_mp4.mp4
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cbbd87bda332de185ad088_photo-1553329537-7a06eb26021c.jpeg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b14458a518af042817484f_View
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/697747caa17841b14a082288_Product
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69b024fceab623b1138863de_carolyn-christine-Fq_0jY8hY50-unsplash
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/697748066827ca123c51eee1_Product%20Image.png
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69788224587f64b9bbb001a3_Frame%20(3).svg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69b3f9dc5c1063ad3d6d939d_Chocolate%20with%20milted%20chocolate%20on%20white%20ceramic%20plate.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/697370bec95c193448830d3a_coffee-bean_18758677%201.svg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69ca45ae88e30e806652929a_jakob-owens-kqwkv1bYWWM-unsplash.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/697747caa17841b14a082288_Product%20Image.png
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637/69ca43caf198a2edaca96663_mary-skrynnikova-deiBtCKsZ3A-unsplash-p-1600.webp
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/6977468ca0c46d8b2295e164_Product%20Image.png
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/69cb7cc7e50adee01c0280a3_jason-betz-klub_Ke-268-unsplash-p-500.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f1163e/697734d4d70145bbdfc91ca7_Roasted%20coffee%20beans.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69776ef43bd7f2f833082408_Close%20up%20of%20roasted%20coffee%20beans%20in%20hand_poster.0000000.jpg
+http://localhost:8099/cdn.prod.website-files.com/69700209399c1d34b8f11637%2F69b3ded607b3ff36b7cf37df_Coffee%20roasting_poster.0000000.jpg
+
+FINISHED --2026-08-09 22:47:55--
+Total wall clock time: 2,5s
+Downloaded: 36 files, 2,0M in 0,002s (866 MB/s)
