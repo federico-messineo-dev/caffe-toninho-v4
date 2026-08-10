@@ -1,9 +1,7 @@
-# OS files
-Thumbs.db
-Desktop.ini
+node_modules/
+.vercel/
 .DS_Store
-
-# Editor
-*.swp
-*.swo
-*~
+*.log
+*.bak
+*.bak-*
+tmp/

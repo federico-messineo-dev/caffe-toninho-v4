@@ -1,0 +1,17 @@
+{
+  "name": "caffe-toninho",
+  "version": "1.0.0",
+  "description": "Caffè Toninho - Sito Web Ufficiale",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx -y serve .",
+    "start": "npx -y serve ."
+  },
+  "keywords": [
+    "caffe-toninho",
+    "coffee",
+    "website"
+  ],
+  "author": "Caffè Toninho",
+  "license": "MIT"
+}
