@@ -5024,14 +5024,14 @@ figure {
 
 .square-linear-gradient {
   border-radius: var(--_spacing-system---border-radius--radius-m);
-  background-image: linear-gradient(0deg, #2a211d, #fff 35%);
+  background-image: linear-gradient(0deg, #fff, #1c1613 35%) !important;
   flex: none;
   width: 305px;
   height: 305px;
 }
 
 .square-linear-gradient._01 {
-  background-image: linear-gradient(300deg, #2a211d, #fff 20%);
+  background-image: linear-gradient(300deg, #fff, #1c1613 20%) !important;
 }
 
 .square-linear-gradient._08 {
@@ -5047,22 +5047,22 @@ figure {
 }
 
 .square-linear-gradient._03 {
-  background-image: linear-gradient(300deg, #2a211d, #fff 20%);
+  background-image: linear-gradient(300deg, #fff, #1c1613 20%) !important;
   transform: rotate(90deg);
 }
 
 .square-linear-gradient._07 {
-  background-image: linear-gradient(300deg, #2a211d, #fff 20%);
+  background-image: linear-gradient(300deg, #fff, #1c1613 20%) !important;
   transform: rotate(-90deg);
 }
 
 .square-linear-gradient._09 {
-  background-image: linear-gradient(300deg, #2a211d, #fff 20%);
+  background-image: linear-gradient(300deg, #fff, #1c1613 20%) !important;
   transform: rotate(180deg);
 }
 
 .square-linear-gradient._05 {
-  background-image: linear-gradient(#2a211d, #2a211d);
+  background-image: linear-gradient(#fff, #fff) !important;
 }
 
 .decorative-squares-grid {
@@ -5074,7 +5074,6 @@ figure {
   align-items: stretch;
   display: grid;
 }
-
 .slider-review-text {
   width: 595px;
 }
