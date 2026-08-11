@@ -3555,6 +3555,7 @@ figure {
   line-height: var(--_typography---line-height--line-height-xs);
   letter-spacing: var(--_typography---letter-spacing--letter-spacing-button);
   font-weight: 500;
+  white-space: nowrap;
 }
 
 .navbar-link-text.bottom {
@@ -8771,6 +8772,26 @@ figure {
     max-width: none;
   }
 
+  .reviews-section .subtitle,
+  .reviews-section .slider-review-text,
+  .reviews-section .author-name {
+    color: #2a211d;
+  }
+
+  .reviews-section .left-arrow,
+  .reviews-section .right-arrow {
+    background-color: #f3e8d8;
+    border-color: #2a211d;
+  }
+
+  .reviews-section .slider-arrow {
+    filter: none;
+  }
+
+  .reviews-section .review-rate img {
+    filter: brightness(0) saturate(100%);
+  }
+
   .slide-content-wrap.testimonials-detailed-page {
     max-width: 400px;
   }
@@ -11423,5 +11444,4 @@ figure {
     padding-left: 30px !important;
   }
 }
-
 
