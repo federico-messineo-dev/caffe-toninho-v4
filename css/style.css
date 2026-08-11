@@ -11408,15 +11408,9 @@ figure {
 }
 
 
-/* Logo SVG Smooth Transition to Panna on Scroll */
+/* Logo SVG stays red always */
 .nav-logo-image path {
-  transition: fill 0.35s ease-in-out !important;
-}
-
-body.is-scrolled .nav-logo-image path,
-.navbar-scrolled .nav-logo-image path,
-.is-scrolled .nav-logo-image path {
-  fill: #f5ede4 !important;
+  fill: rgb(206, 54, 67) !important;
 }
 
 /* Testimonials Carousel Spacing Fix */
