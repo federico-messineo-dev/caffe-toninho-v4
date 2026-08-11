@@ -11405,15 +11405,12 @@ figure {
     opacity: 0.3 !important;
   }
 
-  /* Ensure hero title, quote text, and interactive section content are always visible on mobile */
-  .hero-title,
-  .hero-title *,
+  /* Ensure quote text and interactive section content are always visible on mobile */
   .hero-text-description,
   .author-quote,
   .author-quote *,
   .quote-wrap *,
   .right-author-quote-wrap *,
-  .hero-right-block *,
   .button-blur-holder {
     opacity: 1 !important;
     filter: none !important;
