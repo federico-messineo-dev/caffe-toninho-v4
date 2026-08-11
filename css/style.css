@@ -8774,13 +8774,13 @@ figure {
   .reviews-section .subtitle,
   .reviews-section .slider-review-text,
   .reviews-section .author-name {
-    color: #2a211d;
+    color: #f3e8d8;
   }
 
   .reviews-section .left-arrow,
   .reviews-section .right-arrow {
-    background-color: #f3e8d8;
-    border-color: #2a211d;
+    background-color: #2a211d;
+    border-color: #f3e8d8;
   }
 
   .reviews-section .slider-arrow {
