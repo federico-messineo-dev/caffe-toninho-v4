@@ -4274,7 +4274,7 @@ figure {
 }
 
 .hero-text-description.text-muted-light {
-  color: var(--muted-light);
+  color: var(--white);
 }
 
 .coffee-collection-tab-link {
